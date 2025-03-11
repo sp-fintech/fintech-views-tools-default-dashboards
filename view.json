@@ -1,7 +1,7 @@
 {
 	"name" : "Dashboards",
-	"display_name" : "SP Framework Fintech Dashboards View",
-	"description" : "<p>SP Framework Fintech Dashboards View<br></p>",
+	"display_name" : "Fintech Dashboards View",
+	"description" : "<p>Fintech Dashboards View<br></p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "tools",
